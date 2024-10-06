@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://dopuyokavadi.pages.dev/sitemap.xml
